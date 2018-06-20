@@ -6,6 +6,20 @@
     </small>
 </section>
 <section>
+    <h4>Parcel supported transform by default</h4>
+    <ol style="font-size:70%">
+        <li class="fragment">CSS</li>
+        <li class="fragment">SCSS</li>
+        <li class="fragment">Images</li>
+        <li class="fragment">Babel</li>
+        <li class="fragment">PostCSS</li>
+        <li class="fragment">PostHTML</li>
+        <li class="fragment">TypeScript</li>
+        <li class="fragment">ReasonML/BuckleScript</li>
+        <li class="fragment">ReasonReact</li>
+    </ol>
+</section>
+<section>
     <h2> Position of parcel </h2>
 </section>
 <section data-islast="true">
