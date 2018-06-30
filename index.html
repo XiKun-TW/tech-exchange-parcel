@@ -53,18 +53,6 @@
 				]
 			});
 
-			Reveal.addEventListener( 'slidechanged', function( event ) {
-				if(event.currentSlide.dataset.islast) {
-					isGoRight = true;
-				}
-			});	
-			
-			Reveal.addEventListener( 'fragmentshown', function( event ) {
-				if(event.fragment.dataset.islast) {
-					isGoRight = true;
-				}
-			});
-			
 			Reveal.configure({
 				keyboard: {
 					38: function() {
